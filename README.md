@@ -1,4 +1,4 @@
-# App, Cloud, Security and Data Architectures | Catalog
+# Application, Cloud, Security and Data Architectures | Catalog
 
 A repository of compiled patterns, principles and methodologies.
 
